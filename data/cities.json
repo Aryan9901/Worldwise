@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Bhopal",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2023-09-02T13:52:40.698Z",
+      "notes": "my home town",
+      "position": {
+        "lat": "23.25528095095018",
+        "lng": "77.3976516723633"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Rath",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2023-09-02T13:56:17.336Z",
+      "notes": "my birth place",
+      "position": {
+        "lat": "25.59461414695357",
+        "lng": "79.57946777343751"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Fatehpur",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2023-09-02T14:05:00.201Z",
+      "notes": "",
+      "position": {
+        "lat": "25.86972006818858",
+        "lng": "80.88134765625"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Modinagar",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2023-09-02T14:06:30.942Z",
+      "notes": "National Capital of INDIA",
+      "position": {
+        "lat": "28.80723325955913",
+        "lng": "77.60742187500001"
+      },
+      "id": 4
+    }
+  ]
+}

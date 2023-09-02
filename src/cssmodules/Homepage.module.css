@@ -1,0 +1,42 @@
+.homepage {
+	height: calc(100vh - 1.58rem);
+	height: 100vh;
+	/* margin: 1rem 2.5rem; */
+	background-image: linear-gradient(rgba(36, 42, 46, 0.8), rgba(36, 42, 46, 0.8)), url("../bg.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 2.5rem 5rem;
+}
+
+.homepage section {
+	display: flex;
+	flex-direction: column;
+	height: 85%;
+	align-items: center;
+	justify-content: center;
+	row-gap: 3.4rem;
+	text-align: center;
+	padding-top: 2rem;
+}
+
+.homepage h1 {
+	margin-top: 0rem;
+	font-size: 6rem;
+	line-height: 1;
+}
+
+.homepage h2 {
+	width: 60%;
+	font-size: 3.5rem;
+	/* color: var(--color-light--1); */
+	opacity: 0.9;
+	line-height: 1;
+	/* margin-bottom: 1rem; */
+	text-wrap: balance;
+}
+.homepage h3 {
+	width: 70%;
+	font-size: 2rem;
+	text-wrap: balance;
+	color: var(--color-light--1);
+}
