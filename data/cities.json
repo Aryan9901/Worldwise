@@ -25,18 +25,6 @@
       "id": 2
     },
     {
-      "cityName": "Fatehpur",
-      "country": "India",
-      "emoji": "IN",
-      "date": "2023-09-02T14:05:00.201Z",
-      "notes": "",
-      "position": {
-        "lat": "25.86972006818858",
-        "lng": "80.88134765625"
-      },
-      "id": 3
-    },
-    {
       "cityName": "Modinagar",
       "country": "India",
       "emoji": "IN",
@@ -47,6 +35,18 @@
         "lng": "77.60742187500001"
       },
       "id": 4
+    },
+    {
+      "cityName": "Kulpahar",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2023-09-06T06:36:34.565Z",
+      "notes": "my nani lives here",
+      "position": {
+        "lat": "25.30967466869334",
+        "lng": "79.63851928710939"
+      },
+      "id": 6
     }
   ]
 }
